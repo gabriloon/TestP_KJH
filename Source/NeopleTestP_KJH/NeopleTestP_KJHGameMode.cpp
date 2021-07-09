@@ -13,3 +13,5 @@ ANeopleTestP_KJHGameMode::ANeopleTestP_KJHGameMode()
 		DefaultPawnClass = PlayerPawnBPClass.Class;
 	}
 }
+
+

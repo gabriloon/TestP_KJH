@@ -11,6 +11,8 @@ class ANeopleTestP_KJHGameMode : public AGameModeBase
 {
 	GENERATED_BODY()
 
+protected:
+
 public:
 	ANeopleTestP_KJHGameMode();
 };
